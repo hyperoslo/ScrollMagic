@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git://github.com/janpaepke/ScrollMagic.git"
   },
+  "browser": {
+    "velocity": "velocity-animate"
+  },
   "licenses": [
     {
       "type": "MIT",
