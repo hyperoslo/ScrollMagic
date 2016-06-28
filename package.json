@@ -12,7 +12,9 @@
     "url": "git://github.com/janpaepke/ScrollMagic.git"
   },
   "browser": {
-    "velocity": "velocity-animate"
+    "velocity": "velocity-animate",
+    "TweenMax": "gsap",
+    "TimelineMax": "gsap"
   },
   "licenses": [
     {
